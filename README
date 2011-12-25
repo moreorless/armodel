@@ -1,0 +1,5 @@
+/src ar模型分析，
+实现了 1. 从输入数据生成AR模型参数
+       2. 预测数据序列
+
+/jcckit_src 生成统计图的代码 CurveDemo.java
