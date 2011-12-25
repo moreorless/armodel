@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="jcckit_src"/>
+	<classpathentry kind="lib" path="lib/joda-time-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/suanshu-1.4.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/HelloSuanShu/lib/suanshu-javadoc-1.4.0.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/jcckit.jar" sourcepath="E:/java Project/chart/JCCKit/src.zip"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
